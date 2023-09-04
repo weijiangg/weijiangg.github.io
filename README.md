@@ -1,6 +1,6 @@
 # weijiangg.github.io
 
-Live Weather App
+Live Weather App ☀️
 
 Utilized <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to track real-time temperature, humidity, and wind speed data by city.
 
