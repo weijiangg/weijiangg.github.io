@@ -2,8 +2,6 @@
 
 Live Weather App
 
-Utilized OpenWeatherMap API to track real-time temperature, humidity, and wind speed data by city.
-
-https://openweathermap.org/api
+Utilized <a href="https://openweathermap.org/api">OpenWeatherMap API</a> to track real-time temperature, humidity, and wind speed data by city.
 
 Designed an intuitive and seamless user interface with CSS and tested for user error. 
